@@ -40,3 +40,5 @@ Segue abaixo a lista de exercício para a prática das CSS.
 1. **CSS Básico**
     1. [Words Highlight](1.i/README.md)
     1. [Underline Color](1.ii/README.md)
+1. **Listas**
+    1. [Numeração Personalizada](2.i/README.md)
