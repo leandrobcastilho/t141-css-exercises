@@ -1,6 +1,6 @@
 # Numeração Personalizada
 
-Estilize uma lista ordenada ```<ol></ol>``` para que quando seja adicionado um novo item a numeração seja atualizada automáticamente somente com HTML e CSS.
+Estilize uma lista ordenada ```<ol></ol>``` somente com HTML e CSS para que a numeração do item seja exibida de forma personalizada.
 
 ## Exemplo
 
